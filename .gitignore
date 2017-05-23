@@ -1,0 +1,9 @@
+/.vs
+*.suo
+*.user
+*.ncrunchsolution
+*.ncrunchproject
+*.crunchsolution.cache
+bin
+obj
+packages
